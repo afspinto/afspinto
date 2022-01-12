@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @afspinto
+- 👀 I’m interested in learning programming laguages.
+- 🌱 I’m currently learning JAVASCRIPT, NODE.JS & GO.
+- 💞️ I’m looking to collaborate on new pojects related with blockchain.
